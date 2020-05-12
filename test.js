@@ -1,5 +1,6 @@
 test commit6-win commit9-mac
-commit7-win
-commit8-wincommit12-win
+test commit7-win commit10-mac
+commit8-win
+commit12-win
 commit13-win
 commit14-win
